@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Joey",
+        "password": "1234",
+        "age": 28,
+        "phone number": 7000000000,
+        "address": "NY_USA",
+        "email": "joey@eats.com",
+        "order history": {}
+    },
+    {
+        "id": 2,
+        "name": "Bing",
+        "password": 0,
+        "age": 30,
+        "phone number": 9000000000,
+        "address": "NYCity",
+        "email": "chandler@bing.com",
+        "order history": {}
+    }
+]
